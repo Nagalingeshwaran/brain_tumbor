@@ -51,7 +51,7 @@ h1 {
 """, unsafe_allow_html=True)
 
 # ================== LOAD MODEL (FROM GOOGLE DRIVE) ==================
-MODEL_ID = "18EheBEHyDPy4FFkEPvnzClBFmsLiwvGo/view"   # 🔴 REPLACE with your Google Drive file ID
+MODEL_ID = "18EheBEHyDPy4FFkEPvnzClBFmsLiwvGo"   # 🔴 REPLACE with your Google Drive file ID
 MODEL_PATH = "Brain_Tumor_dataset.h5"
 
 @st.cache_resource
