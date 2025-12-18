@@ -11,7 +11,7 @@ MODEL_FILE = 'Train.h5'
 
 # Google Drive File ID from your link
 # Link: https://drive.google.com/file/d/1RUZzeRxgi4l_1_oCFFevKxJWQJxK8WhG/view?usp=sharing
-FILE_ID = '18EheBEHyDPy4FFkEPvnzClBFmsLiwvGo'
+FILE_ID = '1WJo9_US2Wt4cnG_cOtn3Nmta5Jq2o2nE'
 
 @st.cache_resource
 def load_model():
